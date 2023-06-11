@@ -1,4 +1,4 @@
-# SlingX - This script is broken
+# SlingX
 
 ## MUST BE A US VPS/DEDICATED SERVER
 
